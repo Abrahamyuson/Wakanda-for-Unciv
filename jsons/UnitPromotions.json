@@ -2,13 +2,13 @@
     {
 		"name": "Vibranium Armor",
 		"uniques": ["[+5]% Strength",
-			"[+10]% Strength <when defending>",
-			"[+33]% Strength <vs [Ranged] units> <when defending>"]
+			"[+30]% Strength <when defending>",
+			"[+66]% Strength <vs [Ranged] units> <when defending>"]
 	},
 	{
 		"name": "Wakanda Forever",
 		"uniques": ["Can move immediately once bought",
-			"[+15]% Strength <vs [Barbarian] units>",
+			"[+35]% Strength <vs [Barbarian] units>",
 			"Uncapturable"]
 	},
 	{
